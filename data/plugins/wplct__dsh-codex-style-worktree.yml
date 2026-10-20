@@ -1,0 +1,6 @@
+url: https://github.com/wplct/dsh-codex-style-worktree
+name: wplct/dsh-codex-style-worktree
+category: git
+description:
+  en: 'Codex-style default Git worktree for DSH sessions: a Local / New worktree picker in the composer row, an isolated checkout created automatically after the first message, an inline progress card and a sidebar marker, plus guarded cleanup that leaves a restorable snapshot before removal.'
+  zh: 'Codex 风格 Worktree：输入框那一行可选「本地」或「新建工作树」，发送首条消息后自动创建独立检出，输入框上方显示进度卡片、侧边栏标记托管会话；清理有占用保护，删除前自动留下可恢复快照。'
